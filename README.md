@@ -1,13 +1,19 @@
 <h2> ExchangeRateCalculator-Project </h2>
 <p> 💰 환율 계산기 <p>
 
-- HTML, CSS, JavaScript
+![환율계산기](https://user-images.githubusercontent.com/99962500/202077015-b1eacc2f-53e5-43c2-b809-4580adce36cf.gif)
+
+- Language : HTML5, CSS3, JavaScript
+
+- Tool : Visual Studio Code
+
+-----
 
 - 적용 기능
 
-  - 금액 (숫자)를 입력하는 input
+  - 금액(숫자)을 입력하는 input 생성
 
-  - 화폐단위를 선택하는 dropdown list
+  - 화폐단위를 선택하는 dropdown list 생성
 
   - 환율 정보
 
@@ -21,8 +27,9 @@
 
   - 입력한 숫자를 글자로 표현 (만단위 읽기)
   
+-----
   
-- 아쉬운 점
+- 회고
 
   - 숫자(금액) 입력과 출력 시 천단위 콤마를 적용시키지 않아 가독성 떨어짐
   
