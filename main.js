@@ -11,7 +11,7 @@ let currencyRatio = {
         CAD:0.00096,
         AUD:0.0011,
         unit: "원",
-        img : "/flag/KR.png"
+        img : "flag/KR.png"
     },
     USD:{
         KRW:1441.69,
@@ -25,7 +25,7 @@ let currencyRatio = {
         CAD:1.39,
         AUD:1.61,
         unit: "달러",
-        img: "/flag/US.gif"
+        img: "flag/US.gif"
     },
     VND:{
         KRW:0.060,
@@ -39,7 +39,7 @@ let currencyRatio = {
         CAD:0.000058,
         AUD:0.000067,
         unit: "동",
-        img: "/flag/VN.gif"
+        img: "flag/VN.gif"
     },
     CHF:{
         KRW:1432.60,
@@ -53,7 +53,7 @@ let currencyRatio = {
         CAD:1.38,
         AUD:1.60,
         unit: "프랑",
-        img: "/flag/CH.gif"
+        img: "flag/CH.gif"
     },
     SGD:{
         KRW:1009.59,
@@ -67,7 +67,7 @@ let currencyRatio = {
         CAD:0.97,
         AUD:1.13,
         unit: "달러",
-        img: "/flag/SG.gif"
+        img: "flag/SG.gif"
     },
     INR:{
         KRW:17.49,
@@ -81,7 +81,7 @@ let currencyRatio = {
         CAD:0.017,
         AUD:0.020,
         unit: "루피",
-        img: "/flag/IN.gif"
+        img: "flag/IN.gif"
     },
     JPY:{
         KRW:9.69,
@@ -95,7 +95,7 @@ let currencyRatio = {
         CAD:0.0093,
         AUD:0.011,
         unit: "엔",
-        img: "/flag/JP.gif"
+        img: "flag/JP.gif"
     },
     CNY:{
         KRW:200.50,
@@ -109,7 +109,7 @@ let currencyRatio = {
         CAD:0.19,
         AUD:0.22,
         unit: "위안화",
-        img: "/flag/CN.gif"
+        img: "flag/CN.gif"
     },
     CAD:{
         KRW:1038.35,
@@ -123,7 +123,7 @@ let currencyRatio = {
         CAD:1,
         AUD:1.16,
         unit: "달러",
-        img: "/flag/CA.gif"
+        img: "flag/CA.gif"
     },
     AUD:{
         KRW:893.70,
@@ -137,7 +137,7 @@ let currencyRatio = {
         CAD:0.86,
         AUD:1,
         unit: "달러",
-        img: "/flag/AU.gif"
+        img: "flag/AU.gif"
     }
 };
 
